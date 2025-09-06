@@ -15,23 +15,23 @@ A lightweight custom PC game launcher that scans for installed games (like GTA V
 
 Supported Games (v1.0)
 
-Rockstar Games Launcher
-Minecraft
-Fortnite
-BeamNG.drive
-SCP: Secret Laboratory
-Among Us
-Skyrim Special Edition
-League of Legends
-Valorant
-CS:GO
-Call of Duty
-Apex Legends
-The Sims 4
-Overwatch
-Fall Guys
-Rocket League
-CS2
+Rockstar Games Launcher,
+Minecraft,
+Fortnite,
+BeamNG.drive,
+SCP: Secret Laboratory,
+Among Us,
+Skyrim Special Edition,
+League of Legends,
+Valorant,
+CS:GO,
+Call of Duty,
+Apex Legends,
+The Sims 4,
+Overwatch,
+Fall Guys,
+Rocket League,
+CS2,
 
 Supported Launchers (v1.0)
 Steam
