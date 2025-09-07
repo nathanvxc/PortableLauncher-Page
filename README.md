@@ -9,7 +9,7 @@
 Official Page for the PortableLauncher System, Discord Server is https://discord.gg/Qd5TTqfaGH
 
 ## 📥 Download
-[Download the latest version](https://github.com/YOUR-USERNAME/PortableLauncher-Page/releases/latest)
+[Download the latest version](https://github.com/nathanvxc/PortableLauncher-Page/releases/latest)
 
 
 ## Info
