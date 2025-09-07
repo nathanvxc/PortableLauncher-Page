@@ -12,6 +12,7 @@ Official Page for the PortableLauncher System, Discord Server is https://discord
 [Download the latest version](https://github.com/YOUR-USERNAME/PortableLauncher-Page/releases/latest)
 
 
+## Info
 
 A lightweight custom PC game launcher that scans for installed games (like GTA V, Skyrim, BeamNG, SCP: Secret Laboratory, and more) and lets you launch them instantly, all in one place.
 
