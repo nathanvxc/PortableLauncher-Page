@@ -41,6 +41,4 @@ Rockstar Launcher - [Not Guarunteed to work]
 - Better Support for Steam, Epic Games, and Rockstar libraries -
 - Game icons instead of placeholders -
 - Ability for developers to promote their games on the launcher -
-- Community voting on which games get added next -
-
-Made by nathanvxc, a 14 year old dev.
+- Community voting on which games get added next -  
